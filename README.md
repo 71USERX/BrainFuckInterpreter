@@ -1,2 +1,2 @@
 # BrainFuckInterpreter
-A BrainFuck Interpreter made of C++
+A BrainFuck Interpreter written in C++
